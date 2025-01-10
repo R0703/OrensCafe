@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Customer
+  - Table
+  - CashRegister
+  - Chair
+  - Money
+  - Kitchen
+  - Salad
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ChairsLayer
+    uniqueID: 1029513979
+    locked: 0
+  - name: CustomerLayer
+    uniqueID: 2088438455
+    locked: 0
+  - name: MoneyLayer
+    uniqueID: 1135894663
+    locked: 0

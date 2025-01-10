@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fe6a9b458db5dd449a2757839fcbbf3b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coinsClip: {fileID: 8300000, guid: f066c67496183d04393b4f7c390ed5fc, type: 3}
+  - cafeAmbienceClip: {fileID: 8300000, guid: bd996b74a3f661f47847b48ce577df88, type: 3}
+  - cookingClip: {fileID: 8300000, guid: 1a466e4e155ba3e49abfbc4d747a7822, type: 3}
+  - popNotificationClip: {fileID: 8300000, guid: 8e52a67a796a71545a5363ab17d3f2b9, type: 3}
+  - levelClearClip: {fileID: 8300000, guid: 7a69db4409efdf240a4f385978b0fd95, type: 3}
+  - buttonClickedClip: {fileID: 8300000, guid: aed3fa882f1d67e4ebf7d61f44276bb9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

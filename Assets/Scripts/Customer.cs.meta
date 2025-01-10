@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb8bd5290ebe1e64c92e7cb28c368ae1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - orderBubblePrefab: {fileID: 1803606104623698784, guid: 7a9b16e658323764b95f53ce4e99dc1c, type: 3}
+  - moneyPrefab: {fileID: 1761670288820022051, guid: 5e72ef2c0e14e854ca3722857a693bfc, type: 3}
+  - sittingSprite: {fileID: 21300000, guid: 276cd5c5716e83943bfa987a27ec0062, type: 3}
+  - eatingSprite: {fileID: 21300000, guid: 276cd5c5716e83943bfa987a27ec0062, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
