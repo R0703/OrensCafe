@@ -1,3 +1,3 @@
-LC01- Orens Cafe
+# Orens Cafe - Unity
 
-Source code tapi minus beberapa asset gambar karena file terlalu besar. untuk source code lengkap telah diupload ke link google drive dan linknya sudah tertera di gdd laporan akhir, terima kasih pak.
+## Oren's Cafe adalah game simulasi manajemen waktu di mana pemain mengontrol Oren, seekor kucing ramah yang memiliki dan menjalankan restoran. Pemain harus melayani pelanggan dengan cepat dan efisien untuk mendapatkan poin dan meningkatkan restoran mereka.
